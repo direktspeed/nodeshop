@@ -11,6 +11,6 @@
         "bcrypt" : "*",
         "underscore" : "*",
         "request" : "*",
-        "querystring" : "*"
+        "querystring" : ">=0.2.0"
     }
 }
