@@ -10,7 +10,7 @@
         "mongoose" : "*",
         "bcrypt" : "*",
         "underscore" : "*",
-        "request" : "*",
+        "request" : ">=2.80.0",
         "querystring" : "*"
     }
 }
